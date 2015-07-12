@@ -1,0 +1,1 @@
+Numerical Methods for solving equations using bisection, secant.
